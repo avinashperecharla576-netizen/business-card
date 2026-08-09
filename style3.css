@@ -1,0 +1,36 @@
+.logo-img{
+    width: 180px;
+    /* height: 200px; */
+}
+
+.card{
+    width:300px;
+    margin: 40px auto;
+    padding: 20px;
+    display: block;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #8d99ae;
+    color: #edf2f4;
+    border: 7px solid #2b2d42;
+    border-radius: 7px;
+}
+
+/* .border-blue{
+    border: 1px solid blue;
+} */
+
+body{
+    margin: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .red-circle{
+    height: 200px;
+    width: 200px;
+
+    border-radius: 100%;
+    background-color: #BC002D;
+
+    margin: 40px auto;
+} */
